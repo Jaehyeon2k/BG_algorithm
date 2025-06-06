@@ -17,7 +17,3 @@ BaekjoonHub 크롬 확장 프로그램을 통해 자동 커밋되며, 문제 이
 - 알고리즘 문제 풀이 실력 향상  
 - GitHub를 통한 문제 풀이 히스토리 관리  
 - 버전 관리 및 포트폴리오 자료 정리
-
-✍️ 예시 커밋 메시지  
-[Bronze V] Title: A+B - 4, Time: 192 ms, Memory: 17940 KB - BaekjoonHub  
-[level 0] Title: 코드 처리하기, Time: 360.13 ms, Memory: 380 MB - BaekjoonHub
