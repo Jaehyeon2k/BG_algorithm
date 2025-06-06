@@ -1,2 +1,23 @@
-# BG_algorithm
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+BG_algorithm
+=============
+
+📌 소개  
+이 저장소는 Baekjoon Online Judge(백준)와 프로그래머스 문제 풀이를 자동으로 업로드하기 위한 저장소입니다.  
+BaekjoonHub 크롬 확장 프로그램을 통해 자동 커밋되며, 문제 이름, 난이도, 실행 시간, 메모리 사용량 등의 정보가 포함됩니다.
+
+📁 디렉토리 구성  
+- 백준/Bronze: 백준 Bronze 난이도의 문제 풀이 코드  
+- 프로그래머스/0: 프로그래머스 Level 0 문제 풀이 코드
+
+🛠 사용 기술  
+- 언어: Java  
+- 자동 업로드 도구: BaekjoonHub (Chrome 확장 프로그램)
+
+📈 활용 목적  
+- 알고리즘 문제 풀이 실력 향상  
+- GitHub를 통한 문제 풀이 히스토리 관리  
+- 버전 관리 및 포트폴리오 자료 정리
+
+✍️ 예시 커밋 메시지  
+[Bronze V] Title: A+B - 4, Time: 192 ms, Memory: 17940 KB - BaekjoonHub  
+[level 0] Title: 코드 처리하기, Time: 360.13 ms, Memory: 380 MB - BaekjoonHub
